@@ -19,22 +19,24 @@ v)Package Diagram
 vi)Sequence Diagram
 # DIAGRAMS:
 ## Usecase Diagram:
-<img width="953" height="743" alt="usecase1" src="https://github.com/user-attachments/assets/f1cb9f9b-1bf7-49bb-a503-8eb87c9815a8" />
+<img width="1217" height="1002" alt="image" src="https://github.com/user-attachments/assets/fd2368d9-e0eb-4f8b-a220-02cf46bd2eb8" />
+
 
 ## class Diagram:
-<img width="1203" height="714" alt="class1" src="https://github.com/user-attachments/assets/b147e3fb-7fcf-47b1-87a0-f4141117f8f4" />
+<img width="1234" height="1001" alt="image" src="https://github.com/user-attachments/assets/29ee1d9d-a606-4f5c-9b7c-eb84d6fa70f6" />
 
 ## Activity Diagram:
-<img width="1092" height="1048" alt="image" src="https://github.com/user-attachments/assets/f2bb9f4e-291c-4e93-bf6b-13a962f40591" />
+<img width="950" height="995" alt="image" src="https://github.com/user-attachments/assets/7effc72b-d1d7-4150-9e96-32575a48149b" />
 
 ## Communication Diagram:
-<img width="1216" height="876" alt="comm1" src="https://github.com/user-attachments/assets/5d41aac1-4320-4447-9e4d-cd0753ef9640" />
+<img width="991" height="859" alt="image" src="https://github.com/user-attachments/assets/5fa5e82f-53de-45d6-a22f-2ef212fb8c8d" />
+
 
 ## Package Diagram:
-<img width="1171" height="845" alt="package1" src="https://github.com/user-attachments/assets/6f369da4-71cd-4d97-bcac-2072afa5b1c1" />
+<img width="1224" height="918" alt="image" src="https://github.com/user-attachments/assets/52b197e7-5cc4-4a40-9c49-4eaa07a0d8de" />
 
 ## Sequence Diagram:
-<img width="1202" height="871" alt="seq1" src="https://github.com/user-attachments/assets/baf879f6-7f09-4553-b33e-023bc4eff2cd" />
+<img width="624" height="947" alt="image" src="https://github.com/user-attachments/assets/d20da7c1-5d5e-4e73-be27-7daca6c752d4" />
 
 
 
